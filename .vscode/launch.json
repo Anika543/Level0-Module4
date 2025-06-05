@@ -3,6 +3,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "testScores",
+            "request": "launch",
+            "mainClass": "_01_double._2_test_scores.testScores",
+            "projectName": "Level0-Module4_26c0ea09"
+        },
+        {
+            "type": "java",
             "name": "ChangeCalculator",
             "request": "launch",
             "mainClass": "_01_double._1_change_calculator.ChangeCalculator"
